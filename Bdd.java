@@ -1,5 +1,3 @@
-/* TP3 de Valeriya Popenko
- * # matricule 1014631*/
 
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.Statement;
