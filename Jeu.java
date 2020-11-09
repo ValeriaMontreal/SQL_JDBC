@@ -1,6 +1,3 @@
-/* TP3 de Valeriya Popenko
- *  # matricule 1014631*/
-
 import java.util.ArrayList;
 import java.util.Collection;
 
